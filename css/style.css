@@ -715,7 +715,7 @@ body {
     }
 
     .sign__up {
-        max-width: 160px;
+        width: 140px;
         background-color: transparent;
         color: #fff;
         margin-bottom: 10px;
@@ -724,7 +724,7 @@ body {
     }
 
     .login {
-        max-width: 160px;
+        width: 140px;
         background-color: transparent;
         padding: 4px 8px;
     }
